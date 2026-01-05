@@ -1,5 +1,4 @@
-# codechef-solutions
-# CodeChef Solutions
+ # CodeChef Solutions
 
 This repository contains my solutions to various CodeChef programming problems,
 organized by language.
